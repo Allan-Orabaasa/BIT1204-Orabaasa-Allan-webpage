@@ -8,6 +8,7 @@ header {
   color: #f4f4f4;
   padding: 10px;
   text-align: center;
+  text-align: center;
 }
 nav {
   background: #555;
@@ -53,3 +54,4 @@ img {
 p{
   margin: 0;
 }
+
